@@ -1,0 +1,6 @@
+[submodule "budget-system-server"]
+	path = budget-system-server
+	url = git@github.com:edwincosta/budget-system-server.git
+[submodule "budget-system-web"]
+	path = budget-system-web
+	url = git@github.com:edwincosta/budget-system-web.git

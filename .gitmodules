@@ -4,3 +4,6 @@
 [submodule "budget-system-web"]
 	path = budget-system-web
 	url = git@github.com:edwincosta/budget-system-web.git
+[submodule "budget-system-shared"]
+	path = budget-system-shared
+	url = git@github.com:edwincosta/budget-system-shared.git
